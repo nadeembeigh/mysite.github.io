@@ -23,14 +23,14 @@ repository               : "minimalacademicsite/minimalacademicsite.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "John Doe"
-  description      : ""
+  name             : "Dr. Nadeem Beigh"
+  description      : "Senior Researcher |UAE Research Map Expert| Flexible Sensors, MEMS, & Energy Harvesting Innovation| Sumit Sinha Sustainability Awardee| GulfHE Mentor"
   pronouns         : ""
-  bio              : "I am a researcher focusing on machine learning and data science."
-  location         : "City, Country"
-  employer         : "Institution Name"
+  bio              : ""
+  location         : "Abu Dhabi, UAE"
+  employer         : "KU|NTU|IIT Delhi"
   uri              : 
-  email            : "your.email@example.com" 
+  email            : "beigh.nadeem007@gmail.com" 
 
   # Academic websites
   academia         : 
