@@ -185,37 +185,49 @@ redirect_from:
 </style>
 
 <div class="content-text">
-  <strong>John Doe</strong> is a fully funded Ph.D. researcher in Environmental Data Science at the <strong>University of Earth Sciences</strong>, advised by <strong>Dr. Jane Smith</strong> in the <strong>Climate Analytics Lab</strong>. His research applies Machine Learning and Spatial-Temporal Neural Networks to predictive climate modeling. Currently, he develops deep learning architectures to build AI-driven urban planning tools for <strong>Urban Heat Island (UHI) mitigation</strong>. Through multi-institutional collaborations, his work aims to translate environmental algorithms into scalable solutions for municipal governments and sustainability NGOs.
-</div>
+    <p>
+      <strong>Dr. Nadeem Tariq Beigh</strong> is an interdisciplinary researcher and technology developer specialising in intelligent flexible electronics,
+      wearable sensing, printed devices, multifunctional nanocomposites, MEMS/NEMS, and self-powered systems. He is currently a <strong>Visiting Researcher at the Indian Institute of Technology Delhi</strong>, where he continues his work on intelligent microsystems, nonlinear devices, energy harvesting, and advanced sensing technologies. Before returning to IIT Delhi, he completed his postdoctoral research at the Smart and Intelligent Sensors Laboratory, Khalifa University, Abu Dhabi.
+    </p>
+    <p>
+      At Khalifa University, Dr. Beigh developed a range of low-cost and scalable sensing technologies, including porous graphene–polymer pressure sensors,
+      electrohydrodynamically printed MXene-based devices, wearable respiratory-monitoring platforms, multifunctional tactile–thermal composites, and flexible IoT systems. His research also explored nonlinear PMUT dynamics and physical reservoir computing. Several of these technologies progressed to TRL-4 prototypes, patent applications, and
+      commercialisation pathways in healthcare, robotics, and AgriTech.
+    </p>
+    <p>
+      Previously, he worked at Nanyang Technological University, Singapore, on the integration of MEMS with terahertz switching and reconfigurable
+      high-frequency systems. He received his Ph.D. in Electrical Engineering from IIT Delhi, where he developed photopatternable multifunctional
+      nanocomposites with combined piezoelectric and triboelectric behaviour for mechanical energy harvesting and self-powered sensing. His research is distinguished by a complete technology-development approach: from materials design and microfabrication to device characterisation, embedded integration, AI-assisted interpretation, and real-world prototyping.
+    </p>
+    </div>
+   <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i>
+      His long-term ambition is to create intelligent, autonomous, and
+      sustainable sensing platforms for healthcare, human–machine interaction,
+      precision agriculture, environmental monitoring, and Industry 5.0.
+      </div>
+  
 
-<div class="content-text">
-  Doe’s multidisciplinary foundation includes an M.Sc. in Geospatial Analytics, and a B.Sc. in Environmental Engineering. He is an inductee of the <strong>Global Sustainability Honor Society</strong> and recipient of the <strong>Green Earth Memorial Award</strong>. His research addressing real-world climate challenges is widely published in peer-reviewed venues indexed across <strong>IEEE Xplore</strong>, the <strong>ACM Digital Library</strong>, and <strong>Springer</strong>.
-</div>
-
-<div class="collab-box" style="text-align: justify; text-justify: inter-word;">
-  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute to environmental science.
-</div>
 
 <h2 class="section-title">Research Interests</h2>
 <div class="interest-pills">
-  <span class="pill">Climate Modeling</span>
-  <span class="pill">Deep Learning</span>
-  <span class="pill">Spatial Analytics</span>
-  <span class="pill">Remote Sensing</span>
-  <span class="pill">Urban Planning</span>
+  <span class="pill">MEMS/NEMS</span>
+  <span class="pill">Wearables</span>
+  <span class="pill">Piezo/Tribo/Resistive Sensing</span>
+  <span class="pill">Self-Powered System</span>
+  <span class="pill">Smart Sensors</span>
 </div>
 
 <h2 class="section-title">Recent News</h2>
 <div class="news-scroll-container">
   
   <div class="timeline-item milestone">
-    <div class="timeline-date">Mar 2026</div>
-    <div class="timeline-content">Accepted a fully-funded Ph.D. offer in Environmental Data Science at the <strong>UES</strong>.</div>
+    <div class="timeline-date">July 2026</div>
+    <div class="timeline-content">Dr. Nadeem delivered a talk at Global Conference on Graphene & 2D Advanced Materials, Paris, on " From Flakes to Functions- Translating 2D materials into marketable technologies.</div>
   </div>
   
   <div class="timeline-item">
-    <div class="timeline-date">Jan 2025</div>
-    <div class="timeline-content">Urban canopy mapping paper accepted at <strong>ICCI '25</strong>.</div>
+    <div class="timeline-date">Jun 2026</div>
+    <div class="timeline-content">Our review paper accepted in Sensors and Actuator Reports.</div>
   </div>
 
   <div class="timeline-item">
@@ -224,7 +236,7 @@ redirect_from:
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">Apr 2024</div>
+    <div class="timeline-date">Jun 2024</div>
     <div class="timeline-content">Urban Heat Island forecasting paper published in the <strong>Journal of Environmental Informatics</strong>.</div>
   </div>
 
